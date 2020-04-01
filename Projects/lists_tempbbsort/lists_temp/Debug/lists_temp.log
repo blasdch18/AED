@@ -1,0 +1,2 @@
+﻿  Source.cpp
+u:\backup\d\visual studio 2015\projects\lists_temp\lists_temp\source.cpp(87): error C4703: potentially uninitialized local pointer variable 'tmp' used

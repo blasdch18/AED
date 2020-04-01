@@ -1,0 +1,23 @@
+﻿  Source.cpp
+u:\backup\d\visual studio 2015\projects\arbolb\arbolb\source.cpp(169): error C2181: illegal else without matching if
+  u:\backup\d\visual studio 2015\projects\arbolb\arbolb\source.cpp(131): note: while compiling class template member function 'void arbol_binario<int>::delete_nodo(T &)'
+          with
+          [
+              T=int
+          ]
+  u:\backup\d\visual studio 2015\projects\arbolb\arbolb\source.cpp(197): note: see reference to function template instantiation 'void arbol_binario<int>::delete_nodo(T &)' being compiled
+          with
+          [
+              T=int
+          ]
+  u:\backup\d\visual studio 2015\projects\arbolb\arbolb\source.cpp(189): note: see reference to class template instantiation 'arbol_binario<int>' being compiled
+u:\backup\d\visual studio 2015\projects\arbolb\arbolb\source.cpp(170): error C2664: 'void arbol_binario<int>::delete_Tree(arbol_binario<int> *&)': cannot convert argument 1 from 'nodo<T> *' to 'arbol_binario<int> *&'
+          with
+          [
+              T=int
+          ]
+u:\backup\d\visual studio 2015\projects\arbolb\arbolb\source.cpp(172): error C2664: 'void arbol_binario<int>::delete_Tree(arbol_binario<int> *&)': cannot convert argument 1 from 'nodo<T> *' to 'arbol_binario<int> *&'
+          with
+          [
+              T=int
+          ]

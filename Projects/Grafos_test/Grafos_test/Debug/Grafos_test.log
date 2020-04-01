@@ -1,0 +1,12 @@
+﻿Compilación iniciada a las 25/05/2016 10:35:55 p.m..
+     1>Proyecto "c:\Users\idea¨P\documents\visual studio 2015\Projects\Grafos_test\Grafos_test\Grafos_test.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\grafos_test\grafos_test\source.cpp(270): error C4703: posiblemente se utilizó la variable de puntero local 'ant' sin inicializar
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\grafos_test\grafos_test\source.cpp(321): error C4703: posiblemente se utilizó la variable de puntero local 'r' sin inicializar
+     1>Compilación del proyecto terminada "c:\Users\idea¨P\documents\visual studio 2015\Projects\Grafos_test\Grafos_test\Grafos_test.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.74

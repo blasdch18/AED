@@ -1,0 +1,45 @@
+﻿Compilación iniciada a las 09/05/2016 09:41:51 a.m..
+     1>Proyecto "C:\Users\idea¨P\documents\visual studio 2015\Projects\Areas\Areas\Areas.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(29): error C2248: 'nodo::nodo': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(13): note: vea la declaración de 'nodo::nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(32): warning C4553: '==': el operador no tiene efecto; ¿ha pensado en '='?
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(38): error C2248: 'nodo::next': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(9): note: vea la declaración de 'nodo::next'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(38): error C2248: 'nodo::nodo': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(13): note: vea la declaración de 'nodo::nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(39): error C2248: 'nodo::next': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(9): note: vea la declaración de 'nodo::next'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(43): error C2248: 'nodo::nodo': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(13): note: vea la declaración de 'nodo::nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(48): error C2248: 'nodo::x': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(8): note: vea la declaración de 'nodo::x'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(49): error C2248: 'nodo::y': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(8): note: vea la declaración de 'nodo::y'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(57): error C2248: 'nodo::next': no se puede obtener acceso al miembro private miembro declarado en la clase 'nodo'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(9): note: vea la declaración de 'nodo::next'
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(7): note: vea la declaración de 'nodo'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(60): error C2062: tipo 'int' inesperado
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(76): error C2143: error de sintaxis: falta ';' delante de '<'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(76): error C2059: error de sintaxis: '<'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(82): error C2065: 'x': identificador no declarado
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(84): error C2065: 'y': identificador no declarado
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(85): error C2065: 'puntos': identificador no declarado
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(85): error C2228: el operando izquierdo de '.add_head' debe tener class/struct/union
+         c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(85): note: el tipo es 'unknown-type'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(85): error C2065: 'x': identificador no declarado
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\areas\areas\source.cpp(85): error C2065: 'y': identificador no declarado
+     1>Compilación del proyecto terminada "C:\Users\idea¨P\documents\visual studio 2015\Projects\Areas\Areas\Areas.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.40

@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 07/04/2016 10:22:07 p.m..
+     1>Proyecto "c:\Users\idea¨P\documents\visual studio 2015\Projects\ordenamiento\ordenamiento\ordenamiento.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\ordenamiento\ordenamiento\merge.h(18): error C2131: la expresión no se evaluó como una constante
+         c:\users\idea¨p\documents\visual studio 2015\projects\ordenamiento\ordenamiento\merge.h(18): note: el error se debió a argumentos no constantes o una referencia a un símbolo no constante
+         c:\users\idea¨p\documents\visual studio 2015\projects\ordenamiento\ordenamiento\merge.h(18): note: consulte el uso de 'n1'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\ordenamiento\ordenamiento\merge.h(21): error C3863: array type 'int [n1]' is not assignable
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\ordenamiento\ordenamiento\merge.h(22): error C3863: array type 'int [n2]' is not assignable
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\ordenamiento\ordenamiento\main.cpp(99): warning C4244: 'argumento': conversión de 'double' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\ordenamiento\ordenamiento\main.cpp(141): error C3861: 'GetTime': no se encontró el identificador
+     1>Compilación del proyecto terminada "c:\Users\idea¨P\documents\visual studio 2015\Projects\ordenamiento\ordenamiento\ordenamiento.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.42

@@ -1,0 +1,19 @@
+﻿Compilación iniciada a las 07/09/2016 11:37:34 p.m..
+     1>Proyecto "c:\Users\idea¨P\documents\visual studio 2015\Projects\Project3\Project3\Project3.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(28): warning C4101: 'b': variable local sin referencia
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(57): error C2143: error de sintaxis: falta ';' delante de '*='
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(57): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(58): error C2059: error de sintaxis: '}'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(58): error C2143: error de sintaxis: falta ';' delante de '}'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(59): error C2143: error de sintaxis: falta ';' delante de '}'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(59): error C2059: error de sintaxis: '}'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(61): error C2143: error de sintaxis: falta ';' delante de '{'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project3\project3\source.cpp(61): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+     1>Compilación del proyecto terminada "c:\Users\idea¨P\documents\visual studio 2015\Projects\Project3\Project3\Project3.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.52

@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 28/09/2015 11:16:08 a.m..
+     1>Proyecto "c:\Users\idea¨P\documents\visual studio 2015\Projects\bomber\bomber\bomber.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\bomber\bomber\source.cpp(9): error C2061: error de sintaxis: identificador 'clock_bomb'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\bomber\bomber\source.cpp(9): error C2143: error de sintaxis: falta ')' delante de ';'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\bomber\bomber\source.cpp(9): error C2059: error de sintaxis: ','
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\bomber\bomber\source.cpp(9): error C2059: error de sintaxis: ')'
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\bomber\bomber\source.cpp(9): error C2334: símbolos (token) inesperados delante de ':'; se pasará por alto el cuerpo de función aparente
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\bomber\bomber\source.cpp(23): fatal error C1004: se encontró un final de archivo no esperado
+     1>Compilación del proyecto terminada "c:\Users\idea¨P\documents\visual studio 2015\Projects\bomber\bomber\bomber.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:02.50

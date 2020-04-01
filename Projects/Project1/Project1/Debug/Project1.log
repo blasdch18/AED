@@ -1,5 +1,14 @@
-﻿  Source.cpp
-c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(218): error C2131: expression did not evaluate to a constant
-  c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(218): note: failure was caused by non-constant arguments or reference to a non-constant symbol
-  c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(218): note: see usage of 'tam_vector'
-c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(222): error C3863: array type 'int [tam_vector]' is not assignable
+﻿Compilación iniciada a las 26/09/2015 12:09:33 p.m..
+     1>Proyecto "C:\Users\idea¨P\Documents\Visual Studio 2015\Projects\Project1\Project1\Project1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\idea¨p\documents\visual studio 2015\projects\project1\project1\source.cpp(54): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\idea¨P\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\idea¨P\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\idea¨P\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Source.obj
+         Project1.vcxproj -> C:\Users\idea¨P\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe
+     1>Compilación del proyecto terminada "C:\Users\idea¨P\Documents\Visual Studio 2015\Projects\Project1\Project1\Project1.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.77
