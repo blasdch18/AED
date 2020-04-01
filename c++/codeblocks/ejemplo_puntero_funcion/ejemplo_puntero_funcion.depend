@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492401815 source:u:\c++\codeblocks\ejemplo_puntero_funcion\main.cpp
+	<iostream>
+	<stdio.h>
+

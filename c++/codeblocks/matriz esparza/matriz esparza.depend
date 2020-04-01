@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497905909 source:u:\c++\codeblocks\matriz esparza\main.cpp
+	<iostream>
+	<vector>
+

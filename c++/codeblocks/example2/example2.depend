@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490331213 source:u:\c++\codeblocks\example2\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<time.h>
+	<stdlib.h>
+

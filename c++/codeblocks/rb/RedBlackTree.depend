@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1354174975 source:d:\ccomp\aed\redblacktree\main.cpp
+	<iostream>
+	"RedBlackTree.h"
+	"Traits.h"
+
+1354148722 d:\ccomp\aed\redblacktree\redblacktree.h
+	"RedBlackNode.h"
+	"RedBlackNode.h"
+	"Iterator.h"
+	"TrIterator.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stack>
+
+1353345022 d:\ccomp\aed\redblacktree\redblacknode.h
+
+1351568642 d:\ccomp\aed\redblacktree\iterator.h
+	<stack>
+	"RedBlackNode.h"
+	"TrIterator.h"
+
+1346864666 d:\ccomp\aed\redblacktree\triterator.h
+	"Routes.h"
+
+1351568630 d:\ccomp\aed\redblacktree\routes.h
+	"RedBlackTree.h"
+	"RedBlackNode.h"
+
+1346862520 d:\ccomp\aed\redblacktree\traits.h
+
+1353517924 source:e:\redblacktree\main.cpp
+	<iostream>
+	"RedBlackTree.h"
+	"Traits.h"
+
+1353517968 e:\redblacktree\redblacktree.h
+	"RedBlackNode.h"
+	"RedBlackNode.h"
+	"Iterator.h"
+	"TrIterator.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stack>
+
+1353345022 e:\redblacktree\redblacknode.h
+
+1351568642 e:\redblacktree\iterator.h
+	<stack>
+	"RedBlackNode.h"
+	"TrIterator.h"
+
+1346864666 e:\redblacktree\triterator.h
+	"Routes.h"
+
+1351568630 e:\redblacktree\routes.h
+	"RedBlackTree.h"
+	"RedBlackNode.h"
+
+1346862520 e:\redblacktree\traits.h
+
+1354137396 source:i:\redblacktree\main.cpp
+	<iostream>
+	"RedBlackTree.h"
+	"Traits.h"
+
+1354137484 i:\redblacktree\redblacktree.h
+	"RedBlackNode.h"
+	"RedBlackNode.h"
+	"Iterator.h"
+	"TrIterator.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stack>
+
+1353345022 i:\redblacktree\redblacknode.h
+
+1351568642 i:\redblacktree\iterator.h
+	<stack>
+	"RedBlackNode.h"
+	"TrIterator.h"
+
+1346864666 i:\redblacktree\triterator.h
+	"Routes.h"
+
+1351568630 i:\redblacktree\routes.h
+	"RedBlackTree.h"
+	"RedBlackNode.h"
+
+1346862520 i:\redblacktree\traits.h
+
+1499729924 source:u:\c++\codeblocks\rb\main.cpp
+	<iostream>
+	"RedBlackTree.h"
+	"Traits.h"
+
+1499734944 u:\c++\codeblocks\rb\redblacktree.h
+	"RedBlackNode.h"
+	"RedBlackNode.h"
+	"Iterator.h"
+	"TrIterator.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stack>
+
+1499728893 u:\c++\codeblocks\rb\redblacknode.h
+
+1499729000 u:\c++\codeblocks\rb\iterator.h
+	<stack>
+	"RedBlackNode.h"
+	"TrIterator.h"
+
+1499729994 u:\c++\codeblocks\rb\triterator.h
+	"Routes.h"
+
+1499728893 u:\c++\codeblocks\rb\routes.h
+	"RedBlackTree.h"
+	"RedBlackNode.h"
+
+1499729339 u:\c++\codeblocks\rb\traits.h
+

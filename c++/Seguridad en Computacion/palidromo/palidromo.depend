@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536902879 source:u:\materialesucsp\c++\seguridad en computacion\palidromo\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506556555 source:u:\c++\last_aed\cocktail3\main.cpp
+	<iostream>
+	<windows.h>
+

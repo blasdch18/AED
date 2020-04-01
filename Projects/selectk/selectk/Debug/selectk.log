@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\ideapad\documents\visual studio 2015\projects\selectk\selectk\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\ideapad\documents\visual studio 2015\projects\selectk\selectk\source.cpp(36): warning C4018: '>': signed/unsigned mismatch
+c:\users\ideapad\documents\visual studio 2015\projects\selectk\selectk\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\ideapad\documents\visual studio 2015\projects\selectk\selectk\source.cpp(90): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ideapad\documents\visual studio 2015\projects\selectk\selectk\source.cpp(38): warning C4715: 'select_k': not all control paths return a value
+  selectk.vcxproj -> c:\users\ideapad\documents\visual studio 2015\Projects\selectk\Debug\selectk.exe
+  selectk.vcxproj -> c:\users\ideapad\documents\visual studio 2015\Projects\selectk\Debug\selectk.pdb (Partial PDB)

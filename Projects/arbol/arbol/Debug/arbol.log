@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\ideapad\documents\visual studio 2015\projects\arbol\arbol\source.cpp(106): warning C4800: 'nodo<int> *': forcing value to bool 'true' or 'false' (performance warning)
+  c:\users\ideapad\documents\visual studio 2015\projects\arbol\arbol\source.cpp(104): note: while compiling class template member function 'bool arbol_binario<traits>::find(int,nodo<int> **&)'
+  c:\users\ideapad\documents\visual studio 2015\projects\arbol\arbol\source.cpp(114): note: see reference to function template instantiation 'bool arbol_binario<traits>::find(int,nodo<int> **&)' being compiled
+  c:\users\ideapad\documents\visual studio 2015\projects\arbol\arbol\source.cpp(98): note: while compiling class template member function 'arbol_binario<traits>::arbol_binario(void)'
+  c:\users\ideapad\documents\visual studio 2015\projects\arbol\arbol\source.cpp(224): note: see reference to function template instantiation 'arbol_binario<traits>::arbol_binario(void)' being compiled
+  c:\users\ideapad\documents\visual studio 2015\projects\arbol\arbol\source.cpp(224): note: see reference to class template instantiation 'arbol_binario<traits>' being compiled
+  arbol.vcxproj -> C:\Users\ideaPad\documents\visual studio 2015\Projects\arbol\Debug\arbol.exe
+  arbol.vcxproj -> C:\Users\ideaPad\documents\visual studio 2015\Projects\arbol\Debug\arbol.pdb (Partial PDB)

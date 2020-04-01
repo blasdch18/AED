@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512238360 source:u:\c++\last_aed\lista_circular\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+

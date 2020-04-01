@@ -1,0 +1,85 @@
+Metodos
+
+biseccion('2*x',-2,2,0.01)
+fposicion('2*x',-2,2,0.01)
+newton('2*x*x',4*x,2,0.01)
+secante('2*x',-2,2,0.01)
+
+ Matrices
+
+
+hacer Matrices: 
+   a=[1 2 4 5 , 3 5 6 7 ]
+
+Operaciones:
+   traza(a)
+   multmatriz(a,b)
+   multescalar(a,2)
+   det(a)
+   suma(a,b)
+   resta(a,b)
+   inv(a,2)
+
+
+Integrales y areas
+
+integral(funcion, intervalo_x, intervalo_y, iteraciones, Tipo, BOOL)
+
+Tipo:
+	1 ....... Trapecio
+	2 ....... Simpson 1/3
+        3 ....... Simpson 3/8
+	4 ....... Simpson 
+Compuesto
+Bool:
+	True ....... Area
+	False ....... Intgral
+
+Ej:
+	integral('2*x',2,6,1,3,True)
+
+
+simpson13(fx, a, b, n)    simpson13('2*x',-1,1,100)
+
+
+trapecio(fx, a, b, n)   trapecio('2*x',-1,1,100)
+
+
+Newton Generalizado
+
+   gnewton("[2*x +y  ;1 +6*x*y ]","[power(x,2)+x*y-10 ;y+3*x*power(y,2)-57 ]","[2.036 ;2.845 ]",0.001)
+
+
+Graficar funciones
+
+grafic(fx, x0, xf)   	grafic(2*x,2,3)
+
+  EDO:
+
+rungekutta4('fx', x_0, y_0, x_f, n )   rungekutta4('2*x',-2,2,4,10)
+
+euler('fx', x_0 , x_f, y_0, n)  euler('2*x',-2,2,4,10)
+
+heun ('fx', x_0, x_f, y_0 , n)   heun('2*x',-2,2,4,10)
+
+
+EDO y grafica:
+
+
+    EDO(funcion , x0 , xf , y0fron , n_its ,tipo)	
+
+
+ 1 . Euler
+ 2 . Heun
+ 3 . Rk3
+ 4 . Rk4
+
+ Edo Euler  con   x e [0 , 0.5]  :  	EDO('x-y+1',0,0.5,1,5,1)
+
+ Edo Heun con   x e [0 , 0.5]  :	EDO('x-y+1',0,0.5,1,5,2) 
+
+ Edo RK4 con   x e [0 , 0.5]  : 	EDO('x-y+1',0,0.5,1,5,4) 
+
+
+
+

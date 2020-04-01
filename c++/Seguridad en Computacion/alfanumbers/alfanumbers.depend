@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536901808 source:u:\materialesucsp\c++\seguridad en computacion\alfanumbers\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+

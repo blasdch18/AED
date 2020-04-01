@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495810006 source:u:\c++\codeblocks\arbol\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

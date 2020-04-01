@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1369160632 source:c:\users\usuario\desktop\aed_total\aediii\avl_tree\node.cpp
+
+1369160649 source:c:\users\usuario\desktop\aed_total\aediii\avl_tree\avl.cpp
+
+1369973980 source:c:\users\usuario\desktop\aed_total\aediii\avl_tree\main.cpp
+	<iostream>
+	"Avl.h"
+
+1370030436 c:\users\usuario\desktop\aed_total\aediii\avl_tree\avl.h
+	"Node.h"
+	<stack>
+	<vector>
+	<iostream>
+	<stdlib.h>
+
+1369760200 c:\users\usuario\desktop\aed_total\aediii\avl_tree\node.h
+	<stack>
+
+1369160649 source:u:\c++\codeblocks\avl_tree\avl.cpp
+
+1370030667 source:u:\c++\codeblocks\avl_tree\main.cpp
+	<iostream>
+	"Avl.h"
+
+1370030436 u:\c++\codeblocks\avl_tree\avl.h
+	"Node.h"
+	<stack>
+	<vector>
+	<iostream>
+	<stdlib.h>
+
+1369760200 u:\c++\codeblocks\avl_tree\node.h
+	<stack>
+
+1369160632 source:u:\c++\codeblocks\avl_tree\node.cpp
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1500046098 source:u:\c++\codeblocks\arbol_avl\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+
+1510794513 source:u:\c++\codeblocks\avlk\arbol_avl\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+

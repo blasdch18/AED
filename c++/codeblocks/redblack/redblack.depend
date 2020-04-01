@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1499486336 source:u:\c++\codeblocks\redblack\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stack>
+

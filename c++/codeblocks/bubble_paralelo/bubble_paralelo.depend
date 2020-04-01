@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491587750 source:u:\c++\codeblocks\bubble_paralelo\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<thread>
+	<time.h>
+	<stdlib.h>
+

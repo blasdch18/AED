@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538068208 source:u:\materialesucsp\c++\matematicaaplicada\consumer\main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+

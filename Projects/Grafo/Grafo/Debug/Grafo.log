@@ -1,0 +1,30 @@
+﻿  Source.cpp
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(236): warning C4018: '<=': no coinciden signed/unsigned
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(235): note: durante la compilación de la función miembro de plantilla clase de 'void Grafo<int,int>::dijkstra(int)'
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(337): note: vea la referencia a la creación de instancias de plantilla de función 'void Grafo<int,int>::dijkstra(int)' que se está compilando
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(307): note: vea la referencia a la creación de instancias de plantilla clase de 'Grafo<int,int>' que se está compilando
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(255): warning C4018: '<': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(263): warning C4018: '<': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(284): warning C4018: '<=': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(200): warning C4018: '<': no coinciden signed/unsigned
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(198): note: durante la compilación de la función miembro de plantilla clase de 'Grafo<int,int> Grafo<int,int>::convertir_matriz_grafo(void)'
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(330): note: vea la referencia a la creación de instancias de plantilla de función 'Grafo<int,int> Grafo<int,int>::convertir_matriz_grafo(void)' que se está compilando
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(204): warning C4018: '<': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(207): warning C4018: '<': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(185): warning C4018: '<': no coinciden signed/unsigned
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(184): note: durante la compilación de la función miembro de plantilla clase de 'void Grafo<int,int>::matriz_adyacencia(void)'
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(327): note: vea la referencia a la creación de instancias de plantilla de función 'void Grafo<int,int>::matriz_adyacencia(void)' que se está compilando
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(187): warning C4018: '<': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(146): warning C4018: '<': no coinciden signed/unsigned
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(144): note: durante la compilación de la función miembro de plantilla clase de 'void Grafo<int,int>::imprimir(void)'
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(324): note: vea la referencia a la creación de instancias de plantilla de función 'void Grafo<int,int>::imprimir(void)' que se está compilando
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(153): warning C4018: '<': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(163): warning C4018: '<': no coinciden signed/unsigned
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(77): warning C4018: '<': no coinciden signed/unsigned
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(75): note: durante la compilación de la función miembro de plantilla clase de 'bool Grafo<int,int>::insert_edge(int,int,int)'
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(313): note: vea la referencia a la creación de instancias de plantilla de función 'bool Grafo<int,int>::insert_edge(int,int,int)' que se está compilando
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(170): warning C4018: '<': no coinciden signed/unsigned
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(169): note: durante la compilación de la función miembro de plantilla clase de 'int Grafo<int,int>::conexion_nodos(int,int)'
+  u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(257): note: vea la referencia a la creación de instancias de plantilla de función 'int Grafo<int,int>::conexion_nodos(int,int)' que se está compilando
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(86): error C4703: posiblemente se utilizó la variable de puntero local 'Na' sin inicializar
+u:\bibliotecas\backup\visual studio 2015\projects\grafo\grafo\source.cpp(86): error C4703: posiblemente se utilizó la variable de puntero local 'Nb' sin inicializar

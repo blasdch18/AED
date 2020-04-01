@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1512320748 source:c:\users\hp\desktop\examen_final_practico\main.cpp
+	<iostream>
+	"avltree.h"
+	"sistema.h"
+
+1512317246 c:\users\hp\desktop\examen_final_practico\avltree.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	"avlstack.h"
+
+1512317246 c:\users\hp\desktop\examen_final_practico\avlstack.h
+
+1512317246 c:\users\hp\desktop\examen_final_practico\sistema.h
+	<iostream>
+	<limits.h>
+	"avltree.h"
+	"listaenlazada.h"
+
+1512317246 c:\users\hp\desktop\examen_final_practico\listaenlazada.h
+
+1512321529 source:u:\c++\examen_final_practico\main.cpp
+	<iostream>
+	"avltree.h"
+	"sistema.h"
+
+1512317246 u:\c++\examen_final_practico\avltree.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	"avlstack.h"
+
+1512317246 u:\c++\examen_final_practico\avlstack.h
+
+1512340502 u:\c++\examen_final_practico\sistema.h
+	<iostream>
+	<limits.h>
+	"avltree.h"
+	"listaenlazada.h"
+
+1512317246 u:\c++\examen_final_practico\listaenlazada.h
+

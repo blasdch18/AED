@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500038416 source:u:\c++\codeblocks\finalk\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<utility>
+

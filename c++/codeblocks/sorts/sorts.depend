@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490284665 source:u:\c++\codeblocks\sorts\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<time.h>
+	<stdlib.h>
+

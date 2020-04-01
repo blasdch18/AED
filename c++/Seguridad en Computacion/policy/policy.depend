@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536874453 source:u:\materialesucsp\c++\seguridad en computacion\policy\main.cpp
+	<iostream>
+	<conio.h>
+

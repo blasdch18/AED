@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524678527 source:u:\c++\codeblocks\grafo\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<queue>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+

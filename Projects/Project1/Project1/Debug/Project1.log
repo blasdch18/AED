@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(218): error C2131: expression did not evaluate to a constant
+  c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(218): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(218): note: see usage of 'tam_vector'
+c:\users\ideapad\documents\visual studio 2015\projects\project1\project1\source.cpp(222): error C3863: array type 'int [tam_vector]' is not assignable

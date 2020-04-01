@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491587034 source:u:\c++\codeblocks\merge_paralelo\main.cpp
+	<iostream>
+	<stdio.h>
+	<thread>
+	<stdlib.h>
+	<vector>
+

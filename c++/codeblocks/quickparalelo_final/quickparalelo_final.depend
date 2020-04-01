@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491586321 source:u:\c++\codeblocks\quickparalelo_final\main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<stdlib.h>
+

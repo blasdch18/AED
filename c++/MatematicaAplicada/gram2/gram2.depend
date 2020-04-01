@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537245214 source:u:\materialesucsp\c++\matematicaaplicada\gram2\main.cpp
+	<algorithm>
+	<cmath>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"linearalgebra.h"
+
+1537244125 u:\materialesucsp\c++\matematicaaplicada\gram2\linearalgebra.h
+
